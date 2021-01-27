@@ -1,0 +1,13 @@
+C:\Users\Kevwa\source\repos\Workplace\Workplace\bin\Debug\netcoreapp3.1\Workplace.exe
+C:\Users\Kevwa\source\repos\Workplace\Workplace\bin\Debug\netcoreapp3.1\Workplace.deps.json
+C:\Users\Kevwa\source\repos\Workplace\Workplace\bin\Debug\netcoreapp3.1\Workplace.runtimeconfig.json
+C:\Users\Kevwa\source\repos\Workplace\Workplace\bin\Debug\netcoreapp3.1\Workplace.runtimeconfig.dev.json
+C:\Users\Kevwa\source\repos\Workplace\Workplace\bin\Debug\netcoreapp3.1\Workplace.dll
+C:\Users\Kevwa\source\repos\Workplace\Workplace\bin\Debug\netcoreapp3.1\Workplace.pdb
+C:\Users\Kevwa\source\repos\Workplace\Workplace\obj\Debug\netcoreapp3.1\Workplace.vbprojAssemblyReference.cache
+C:\Users\Kevwa\source\repos\Workplace\Workplace\obj\Debug\netcoreapp3.1\Workplace.AssemblyInfoInputs.cache
+C:\Users\Kevwa\source\repos\Workplace\Workplace\obj\Debug\netcoreapp3.1\Workplace.AssemblyInfo.vb
+C:\Users\Kevwa\source\repos\Workplace\Workplace\obj\Debug\netcoreapp3.1\Workplace.vbproj.CoreCompileInputs.cache
+C:\Users\Kevwa\source\repos\Workplace\Workplace\obj\Debug\netcoreapp3.1\Workplace.dll
+C:\Users\Kevwa\source\repos\Workplace\Workplace\obj\Debug\netcoreapp3.1\Workplace.pdb
+C:\Users\Kevwa\source\repos\Workplace\Workplace\obj\Debug\netcoreapp3.1\Workplace.genruntimeconfig.cache
