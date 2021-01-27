@@ -1,0 +1,13 @@
+C:\Users\Kevwa\source\repos\Inhirtance\Inhirtance\bin\Debug\netcoreapp3.1\Inhirtance.exe
+C:\Users\Kevwa\source\repos\Inhirtance\Inhirtance\bin\Debug\netcoreapp3.1\Inhirtance.deps.json
+C:\Users\Kevwa\source\repos\Inhirtance\Inhirtance\bin\Debug\netcoreapp3.1\Inhirtance.runtimeconfig.json
+C:\Users\Kevwa\source\repos\Inhirtance\Inhirtance\bin\Debug\netcoreapp3.1\Inhirtance.runtimeconfig.dev.json
+C:\Users\Kevwa\source\repos\Inhirtance\Inhirtance\bin\Debug\netcoreapp3.1\Inhirtance.dll
+C:\Users\Kevwa\source\repos\Inhirtance\Inhirtance\bin\Debug\netcoreapp3.1\Inhirtance.pdb
+C:\Users\Kevwa\source\repos\Inhirtance\Inhirtance\obj\Debug\netcoreapp3.1\Inhirtance.vbprojAssemblyReference.cache
+C:\Users\Kevwa\source\repos\Inhirtance\Inhirtance\obj\Debug\netcoreapp3.1\Inhirtance.AssemblyInfoInputs.cache
+C:\Users\Kevwa\source\repos\Inhirtance\Inhirtance\obj\Debug\netcoreapp3.1\Inhirtance.AssemblyInfo.vb
+C:\Users\Kevwa\source\repos\Inhirtance\Inhirtance\obj\Debug\netcoreapp3.1\Inhirtance.vbproj.CoreCompileInputs.cache
+C:\Users\Kevwa\source\repos\Inhirtance\Inhirtance\obj\Debug\netcoreapp3.1\Inhirtance.dll
+C:\Users\Kevwa\source\repos\Inhirtance\Inhirtance\obj\Debug\netcoreapp3.1\Inhirtance.pdb
+C:\Users\Kevwa\source\repos\Inhirtance\Inhirtance\obj\Debug\netcoreapp3.1\Inhirtance.genruntimeconfig.cache
